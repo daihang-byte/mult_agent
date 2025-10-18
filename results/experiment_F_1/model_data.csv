@@ -1,6 +1,0 @@
-step,Gini,Avg_Poor_Wealth,Avg_Rich_Wealth,Wealth_Ratio,Total_Wealth,Total_Rich_Production,Total_Poor_Earnings,Rich_Summary
-1,0.8082118251469974,8.39388888888889,597.935,71.23456218148122,1346.96,0,0,"{'Rich_19': {'gross_output': 0, 'total_wages': 23.96, 'net_profit': -23.96}, 'Rich_20': {'gross_output': 0, 'total_wages': 26.78, 'net_profit': -26.78}}"
-2,0.8319611908052553,11.212777777777779,1158.065,103.28083040182331,2517.96,0,0,"{'Rich_19': {'gross_output': 0, 'total_wages': 23.96, 'net_profit': -23.96}, 'Rich_20': {'gross_output': 0, 'total_wages': 26.78, 'net_profit': -26.78}}"
-3,0.8432754507859459,14.031666666666668,1793.6950000000002,127.83192778239696,3839.96,0,0,"{'Rich_19': {'gross_output': 0, 'total_wages': 23.96, 'net_profit': -23.96}, 'Rich_20': {'gross_output': 0, 'total_wages': 26.78, 'net_profit': -26.78}}"
-4,0.8485115253150202,16.85055555555556,2405.325,142.7445517787082,5113.96,0,0,"{'Rich_19': {'gross_output': 0, 'total_wages': 23.96, 'net_profit': -23.96}, 'Rich_20': {'gross_output': 0, 'total_wages': 26.78, 'net_profit': -26.78}}"
-5,0.8515745010066864,19.66944444444444,3041.455,154.62841406580995,6436.96,0,0,"{'Rich_19': {'gross_output': 0, 'total_wages': 23.96, 'net_profit': -23.96}, 'Rich_20': {'gross_output': 0, 'total_wages': 26.78, 'net_profit': -26.78}}"
