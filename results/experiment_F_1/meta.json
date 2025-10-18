@@ -1,0 +1,8 @@
+{
+  "experiment_id": "F_1",
+  "transparent": false,
+  "seed": 2001,
+  "steps": 5,
+  "num_rich": 2,
+  "num_poor": 18
+}
